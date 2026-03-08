@@ -62,7 +62,7 @@
 실행 결과가 나타난 화면을 캡처하여 제출해주세요.
 ```
 
-<!-- 이 부분을 지우고 실행 화면을 제출해주세요. -->
+![alt text](image-1.png)
 
 
 ## 3. IPython 기초  
@@ -80,7 +80,7 @@ data = [np.random.standard_normal() for i in range(7)]
 data
 ```
 
-<!-- 이 부분을 지우고 실행 화면을 제출해주세요. -->
+![alt text](image-3.png)
 
 ### 주피터 노트북 실행하기 
 
@@ -89,7 +89,7 @@ data
 코드 셀에 print("Hello, World!")를 입력하고 실행한 뒤, 출력 결과가 나타난 화면을 캡처하여 제출해주세요.
 ```
 
-![alt text](image-1.png)
+![alt text](image-4.png)
 
 
 ## 파이썬 기초  
